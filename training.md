@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Training
+title: Professional activities
+subtitle: Training
 ---
 
 | Date | Course/Programme | Organisation | 
