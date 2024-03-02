@@ -5,13 +5,13 @@ title: Professional Activities
 subtitle: Course Development
 ---
 
-| **Course** | Promoting international understanding among primary school students | 
+| **Course** | **Promoting international understanding among primary school students** | 
 | **Date of Completion** | 03/2023 | 
 | **Organisation** | Taicang Youth Activity Centre, Taicang Education Bureau, China | 
 | **Principal Investigator** | Ms Hailing Ye | 
 | **Role** | Researcher |
 | **Experience gained** | *Interdisciplinary collaboration*: Effectively collaborated with five university lecturers from different disciplines to address the developmental needs of 9-11 year old students and to fully promote international understanding. *Curriculum development*: Independently designed a 12-week English language course, demonstrating exceptional curriculum planning skills. Developed detailed lesson plans and teaching materials to ensure a structured and engaging learning experience for students. *Collaborative learning*: Implemented PBL and small group discussions to enhance students' global awareness and intercultural competence. |
-| **Course** | Improving the innovative pedagogical skills of university teachers through reflection: A comprehensive solution | 
+| **Course** | **Improving the innovative pedagogical skills of university teachers through reflection: A comprehensive solution** | 
 | **Date of Completion** | 05/2020 | 
 | **Organisation** | Xi'an Jiaotong-Liverpool University, China | 
 | **Principal Investigator** | Prof. Xiaojun Zhang | 
