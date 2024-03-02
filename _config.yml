@@ -20,12 +20,12 @@ author: Yu TANG
 ###############################################
 
 navbar-links:
-  Professional Activities: 
+  Activities: 
     - Research Experiences: "research-experience"
     - Course Development: "course-development"
-    - Training: "training"
     - Project Management: "project-management"
     - Invited Talks: "invited-talks"
+    - Training: "training"
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
