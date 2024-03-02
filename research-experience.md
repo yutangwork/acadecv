@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Professional Activities
+
 subtitle: Research Experience
 ---
 
