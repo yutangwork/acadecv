@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Education
+
 ---
-
-### Education Background
-
 
 | **University** | City University of Macau, China | 
 | **Date** | 09/2023 to 09/2024 |
