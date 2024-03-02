@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Education
 
 subtitle: My name is Yu Tang
 ---
