@@ -6,7 +6,7 @@ subtitle: Course Development
 
 ## Higher Education
 | **Course** | Improving the innovative pedagogical skills of university teachers through reflection: A comprehensive solution | 
-| **Date** | 03/2023 | 
+| **Date of Completion** | 03/2023 | 
 | **Organisation** | Xi'an Jiaotong-Liverpool University, China | 
 | **Principal Investigator** | Prof. Xiaojun Zhang | 
 | **Role** | Coordinator & Researcher |
@@ -14,7 +14,7 @@ subtitle: Course Development
 
 ## K12
 | **Course** | Promoting international understanding among primary school students | 
-| **Date** | 03/2023 | 
+| **Date of Completion** | 03/2023 | 
 | **Organisation** | Taicang Youth Activity Centre, Taicang Education Bureau, China | 
 | **Principal Investigator** | Ms Hailing Ye | 
 | **Role** | Researcher |
