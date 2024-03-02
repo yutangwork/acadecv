@@ -5,7 +5,8 @@ title: Teach and Work
 subtitle: Work Experience
 ---
 
-### Work Experience
+
+### Work experience at tertiary level
 
 
 | **Position** | **Deputy Head of Higher Education Division** |
@@ -18,7 +19,7 @@ subtitle: Work Experience
 | **Responsibilities** | - *Research*: Contributed to four research projects, which included tasks such as proofreading questionnaires, administering surveys, collecting responses, data analysis and writing final reports. - *Training*: Organised 5+ professional development programmes, 10+ seminars and one international conference, enriching the knowledge base of the research community. - *Self-development*: Actively participated in regular training courses to enhance research and project management skills. Ensured the application of the latest methodologies and approaches in research projects. |
 
 
-### Start-up experience
+### Experience of running a start-up
 
 
 | **Position** | **Founder & CEO** |
