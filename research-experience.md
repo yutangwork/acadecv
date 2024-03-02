@@ -12,6 +12,7 @@ subtitle: Research Experience
 | **Role** | Coordinator & Researcher |
 | **Experience gained** | -Strategic planning: Developed a comprehensive development plan for the Group, including two research projects, one shadow project and staff professional development programmes. Designed clear objectives, milestones and action plans, ensuring meeting the expectations of the stakeholders. |
 
+
 | **Date** | 01/2020 
 | **Organisation** | Xi'an Jiaotong-Liverpool University, China | 
 | **Project** | How to be the happy parents of university students | 
@@ -26,12 +27,14 @@ subtitle: Research Experience
 | **Role** | Coordinator |
 | **Experience gained** | -Survey coordination and collaboration: Collaborated with the Queen's research team to refine, send, and collect questionnaires in Chinese schools. Successfully recruited Chinese K-12 school leaders and facilitated their participation in the research project. |
 
+
 | **Date** | 10/2018
 | **Organisation** | UCL Centre for Educational Leadership, University College London, UK | 
 | **Project** | School Leadership in International Environments | 
 | **Principal Investigator** | Prof. Xiaojun Zhang | 
 | **Role** | Project Director, Coordinator & Researcher |
 | **Experience gained** | -Survey design and data analysis: Developed online questionnaires aligned with research objectives. Used SPSS to analyse questionnaire data and identify key themes. Used this data to design a tailored five-day professional development programme for newly recruited vice-principals in Suzhou. /-Collaboration and evaluation: Collaborated effectively with a team of three academics from UCL to design a professional development programme based on research findings. Maintained the effectiveness of the professional development programme through regular feedback and evaluation. |
+
 
 | **Date** | 10/2017
 | **Organisation** | The Education Committee & the Working Committee of Chaoyang, China | 
