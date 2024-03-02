@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Education Background
-tags: [education], [training]
 ---
 
 ## Doctoral Education
@@ -23,8 +22,8 @@ tags: [education], [training]
 
 **University**: University College London, London, United Kingdom
 
-**Courses**: Leadership for the Learning Community
-             Doing and Using Educational Leadership and Management Research
-             Coaching and Mentoring Principles, Theory and Application to Practice
-             Leading and Managing Change and Improvement
+**Courses**: Leadership for the Learning Community;
+             Doing and Using Educational Leadership and Management Research;
+             Coaching and Mentoring Principles, Theory and Application to Practice;
+             Leading and Managing Change and Improvement;
              Dissertation on Leadership
