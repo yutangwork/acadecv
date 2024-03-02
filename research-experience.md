@@ -4,6 +4,7 @@ title: Professional Activities
 subtitle: Research Experience
 ---
 
+
 | **Project 1** | Professional development plan for teaching and professional services staff | 
 | **Date** | 01/2021 | 
 | **Organisation** | New Higher Education Group, China | 
