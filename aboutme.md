@@ -29,11 +29,11 @@ I have over a decade of teaching experience in the education sector. My research
 
 | **Position** | **Deputy Head of Higher Education Division** |
 | **Date** | 10/2019-02/2021 |
-| **Department/Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
+| **Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
 | **Responsibilities** | - *Professional development*: Oversaw the development and delivery of 80+ customised professional development programmes and 5+ educational consultancy projects for 134 Chinese universities. - *Community engagement*: Led a team of three to organise more than 20 educational conferences, forums and teaching competitions, fostering community engagement and collaboration. -	*Association management*: Oversaw the daily operations of the Association of Sustainable Teacher Development in Universities, fostering a vibrant educational community. |
 | **Position** | **Research Associate** |
 | **Date** | 01/2017-10/2019 |
-| **Department/Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
+| **Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
 | **Responsibilities** | - *Research*: Contributed to four research projects, which included tasks such as proofreading questionnaires, administering surveys, collecting responses, data analysis and writing final reports. - *Training*: Organised 5+ professional development programmes, 10+ seminars and one international conference, enriching the knowledge base of the research community. - *Self-development*: Actively participated in regular training courses to enhance research and project management skills. Ensured the application of the latest methodologies and approaches in research projects. |
 
 
