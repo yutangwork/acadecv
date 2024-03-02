@@ -20,7 +20,6 @@ author: Yu TANG
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Professional Activities: 
     - Research Experiences: "research-experience"
     - Course Development: "course-development"
@@ -31,6 +30,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Teaching Experience: "teaching-experience"
+  About Me: "aboutme"
 
 ################
 # --- Logo --- #
