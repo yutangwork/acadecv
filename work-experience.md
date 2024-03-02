@@ -6,7 +6,7 @@ subtitle: Work Experience
 ---
 
 
-### Work experience at tertiary level
+### Work experience at university
 
 
 | **Position** | **Deputy Head of Higher Education Division** |
