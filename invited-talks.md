@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional Activities
+title: Activities
 subtitle: Invited Talks
 ---
 
