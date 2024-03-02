@@ -26,11 +26,11 @@ navbar-links:
     - Course Development: "course-development"
     - Training: "training"
     - Project Management: "project-management"
-    - Invited Talks: 
+    - Invited Talks: "invited-talks"
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Teaching Experience: 
+  Teaching Experience: "teaching-experience"
 
 ################
 # --- Logo --- #
