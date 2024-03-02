@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional activities
+title: Activities
 subtitle: Project Management
 ---
 
