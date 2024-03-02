@@ -88,7 +88,7 @@ social-network-links:
 share-links-active:
   email: true
   ORCID: true
-  linkedin: true
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
