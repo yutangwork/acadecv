@@ -6,7 +6,7 @@ title: Education
 ### Education Background
 
 
-| **University** | City University of Macau, China |
+| **University** | City University of Macau, China | 
 | **Date** | 09/2023 to 09/2024 |
 | **Programme** | PhD in Applied Linguistics |
 | **Courses** | Took seven courses: Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data |
