@@ -21,12 +21,14 @@ author: Yu TANG
 
 navbar-links:
   About Me: "aboutme"
+  Professional activities: 
+    - Training:
+    - Research experiences:
+    - Project management:
+    - Invited talk: 
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Professional activities: 
-    - Training:
-    - Invited talk: 
   Teaching Experience: 
 
 ################
