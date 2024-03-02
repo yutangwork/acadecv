@@ -6,7 +6,7 @@ subtitle: Work Experience
 ---
 
 
-### Work experience at university
+### Experience at a sino-british cooperative university
 
 
 | **Position** | **Deputy Head of Higher Education Division** |
