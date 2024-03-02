@@ -12,7 +12,7 @@ I have over a decade of teaching experience in the education sector. My research
 
 
 | **University** | City University of Macau, China |
-| **Date** | 09/2023 to 06/2024 |
+| **Date** | 09/2023 to 09/2024 |
 | **Programme** | PhD in Applied Linguistics |
 | **Courses** | Took seven courses: Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data |
 
@@ -21,7 +21,7 @@ I have over a decade of teaching experience in the education sector. My research
 | **Programme** | MA in Leadership |
 | **Courses** | Leadership for the Learning Community; Doing and Using Educational Leadership and Management Research; Coaching and Mentoring Principles, Theory and Application to Practice; Leading and Managing Change and Improvement; Dissertation on Leadership |
 | **Thesis** | Leadership Perspectives: Cultural Influences on Chinese Leaders in London | 
-| **Supervisor** | Professor Joanne Waterhouse |
+| **Supervisor** | Prof. Joanne Waterhouse |
 
 
 ### Work Experience
@@ -44,8 +44,3 @@ I have over a decade of teaching experience in the education sector. My research
 | **Date** | 07/2012-03/2016 |
 | **Organisation** | Huaihua Little Scholar Education Consulting Ltd, China |
 | **Responsibilities** | -	*Vision*: Designed the company's annual development strategies, maintaining partnerships with local primary schools and kindergartens. - *Leadership*: Fostered a supportive organisational culture, motivating staff to excel. Organised and delivered comprehensive induction training for newly recruited staff, ensuring a cohesive and skilled workforce. - *Conflict management*: Used effective communication skills to address challenging issues relating to staff teamwork due to intercultural communication issues to maintain a harmonious working environment. |
-
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
