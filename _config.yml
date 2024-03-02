@@ -22,7 +22,7 @@ author: Yu TANG
 navbar-links:
   About Me: "aboutme"
   Professional activities: 
-    - Training:
+    - Training: "training"
     - Research experiences:
     - Project management:
     - Invited talk: 
