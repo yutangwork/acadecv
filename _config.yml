@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -126,7 +126,7 @@ edit_page_button: true
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "EMI,higher_education,factors"
+# keywords: "EMI,higher_education,factors"
 
 ######################################
 # --- Colours / background image --- #
