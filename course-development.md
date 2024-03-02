@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Professional Activities
+
 subtitle: Course Development
 ---
 
@@ -19,5 +20,5 @@ subtitle: Course Development
 | **Date** | 03/2023 | 
 | **Organisation** | Taicang Youth Activity Centre, Taicang Education Bureau, China | 
 | **Principal Investigator** | Ms Hailing Ye| 
-| **Role** | Coordinator & Researcher |
+| **Role** | Researcher |
 | **Experience gained** | *Interdisciplinary collaboration*: Effectively collaborated with five university lecturers from different disciplines to address the developmental needs of 9-11 year old students and to fully promote international understanding. *Curriculum development*: Independently designed a 12-week English language course, demonstrating exceptional curriculum planning skills. Developed detailed lesson plans and teaching materials to ensure a structured and engaging learning experience for students. *Collaborative learning*: Implemented PBL and small group discussions to enhance students' global awareness and intercultural competence. |
