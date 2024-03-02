@@ -4,15 +4,12 @@ title: Professional Activities
 subtitle: Course Development
 ---
 
-## Higher Education
 | **Course** | Improving the innovative pedagogical skills of university teachers through reflection: A comprehensive solution | 
 | **Date of Completion** | 03/2023 | 
 | **Organisation** | Xi'an Jiaotong-Liverpool University, China | 
 | **Principal Investigator** | Prof. Xiaojun Zhang | 
 | **Role** | Coordinator & Researcher |
 | **Experience gained** | *Collaboration*: Worked closely with a team of five Chinese educational practitioners to create an online, one-year academic year course aimed at developing university teachers' teaching skills through classroom reflection. *Model design*: Developed a teaching reflection model with five practical tools. *Strategic planning*: Developed and implemented a strategic roadmap with clear objectives, milestones and action plans for the project. Ensured timely completion of the project. |
-
-## K12
 | **Course** | Promoting international understanding among primary school students | 
 | **Date of Completion** | 03/2023 | 
 | **Organisation** | Taicang Youth Activity Centre, Taicang Education Bureau, China | 
