@@ -4,7 +4,7 @@ title: Professional activities
 subtitle: Training
 ---
 
-| Date | Course/Programme | Organisation | 
+| **Date** | **Course/Programme** | **Organisation** | 
 | AY2022-23	| Completed PGRS Seminar Series-Quantitative Research Methods course | XJTLU |
 | 10/2022	| Completed Qualitative Comparative Analysis (QCA) course | Coursera |
 | AY2021/22	| Completed PGRS Seminar Series-Qualitative Research Methods course | XJTLU |
