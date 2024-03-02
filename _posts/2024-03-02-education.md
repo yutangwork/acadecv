@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Education Background
-tags:[education], [training]
+tags: [education], [training]
 ---
 
 ## Doctoral Education
