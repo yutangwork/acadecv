@@ -29,7 +29,9 @@ navbar-links:
   Publications:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Teaching Experience: "teaching-experience"
+  Teaching and Working:
+     - Teaching Experience: "teaching-experience"
+     - Working Experience: "working-experience"
   About Me: "aboutme"
 
 ################
