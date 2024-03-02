@@ -3,7 +3,6 @@ layout: post
 title: Education Background
 ---
 
-## Doctoral Education
 
 **Date**: 09-2023 to 06-2024
 
@@ -13,8 +12,6 @@ title: Education Background
 
 **Courses**: Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data
 
-
-## Master education
 
 **Date**: 09-2015 to 09-2016
 
