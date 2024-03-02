@@ -7,9 +7,11 @@ subtitle: My name is Yu Tang
 
 I have over a decade of teaching experience in the education sector. My research interests mainly focus on English Medium Instruction (EMI), in particular the factors that influence the academic success of university students in EMI settings. I'm skilled in both linear (e.g. regression analysis, correlation analysis, structured equation modelling) and non-linear research methods (e.g. qualitative comparative analysis).
 
-## Education Background
 
-| **University** |: City University of Macau, China |
+### Education Background
+
+
+| **University** | City University of Macau, China |
 | **Date** | 09/2023 to 06/2024 |
 | **Programme** | PhD in Applied Linguistics |
 | **Courses** | Took seven courses: Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data |
@@ -21,7 +23,9 @@ I have over a decade of teaching experience in the education sector. My research
 | **Thesis** | Leadership Perspectives: Cultural Influences on Chinese Leaders in London | 
 | **Supervisor** | Professor Joanne Waterhouse |
 
-## Work Experience
+
+### Work Experience
+
 
 | **Position** | **Deputy Head of Higher Education Division** |
 | **Date** | 10/2019-02/2021 |
@@ -32,10 +36,13 @@ I have over a decade of teaching experience in the education sector. My research
 | **Department/Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
 | **Responsibilities** | - *Research*: Contributed to four research projects, which included tasks such as proofreading questionnaires, administering surveys, collecting responses, data analysis and writing final reports. - *Training*: Organised 5+ professional development programmes, 10+ seminars and one international conference, enriching the knowledge base of the research community. - *Self-development*: Actively participated in regular training courses to enhance research and project management skills. Ensured the application of the latest methodologies and approaches in research projects. |
 
-## Start-up experience
+
+### Start-up experience
+
+
 | **Position** | **Founder & CEO** |
 | **Date** | 07/2012-03/2016 |
-| **Department/Organisation** | Huaihua Little Scholar Education Consulting Ltd, China |
+| **Organisation** | Huaihua Little Scholar Education Consulting Ltd, China |
 | **Responsibilities** | -	*Vision*: Designed the company's annual development strategies, maintaining partnerships with local primary schools and kindergartens. - *Leadership*: Fostered a supportive organisational culture, motivating staff to excel. Organised and delivered comprehensive induction training for newly recruited staff, ensuring a cohesive and skilled workforce. - *Conflict management*: Used effective communication skills to address challenging issues relating to staff teamwork due to intercultural communication issues to maintain a harmonious working environment. |
 
 
