@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Professional activities: 
     - Training: "training"
-    - Research experiences:
+    - Research experiences: "research-experience"
     - Project management:
     - Invited talk: 
   Publications:
