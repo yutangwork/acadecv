@@ -10,13 +10,7 @@ tags:[education_background]
 | Programme | PhD student in Applied Linguistics |
 | University | City University of Macau |
 | Country | China |
-| Courses | Key Elements of doctoral studies in Applied Linguistics |
-          | Current Perspectivs and Critiques in Applied Linguistics |
-          | Developing Research Themes in Applied Linguistics |
-          | Research Approaches and Ethical Issues |
-          | Research Methods and Practices in Applied Linguistics |
-          | Evaluating Concepts and Cases in Applied Linguistics |
-          | Analysing Research Data |
+| Courses | Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data |
 
 ## Master education
 09-2015 to 09-2016, MA in Leadership, University College London, London, United Kingdom
