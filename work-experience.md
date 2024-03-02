@@ -6,9 +6,6 @@ subtitle: Work Experience
 ---
 
 
-### Experience at a sino-british cooperative university
-
-
 | **Position** | **Deputy Head of Higher Education Division** |
 | **Date** | 10/2019-02/2021 |
 | **Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
