@@ -6,13 +6,14 @@ tags:[education_background]
 
 ## Education
 
-| Education | At tertiary level |
-| :-------- | :--- | :--- |
-| Time | 09-2023 to 06-2024 |
-| Programme | PhD student in Applied Linguistics |
-| University | City University of Macau |
-| Country | China |
-| Courses | Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data |
+**Time**: 09-2023 to 06-2024
+
+**Programme**: PhD student in Applied Linguistics 
+
+**University**: City University of Macau, China
+
+**Courses**: Key Elements of doctoral studies in Applied Linguistics; Current Perspectivs and Critiques in Applied Linguistics; Developing Research Themes in Applied Linguistics; Research Approaches and Ethical Issues; Research Methods and Practices in Applied Linguistics; Evaluating Concepts and Cases in Applied Linguistics; Analysing Research Data
+
 
 ## Master education
 09-2015 to 09-2016, MA in Leadership, University College London, London, United Kingdom
