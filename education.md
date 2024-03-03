@@ -14,4 +14,11 @@ title: Education
 | **Programme** | MA in Leadership |
 | **Courses** | Leadership for the Learning Community; Doing and Using Educational Leadership and Management Research; Coaching and Mentoring Principles, Theory and Application to Practice; Leading and Managing Change and Improvement; Dissertation on Leadership |
 | **Thesis** | Leadership Perspectives: Cultural Influences on Chinese Leaders in London | 
-| **Supervisor** | Prof. Joanne Waterhouse |
+| **Supervisor** | Professor Joanne Waterhouse |
+
+| **University** | **Jiujiang University**, China |
+| **Date** | 09/2007-07/2011 |
+| **Programme** | BA in English (Business English) |
+| **Courses** | Courses related to English speaking, listening, writing and reading, linguistics, rhetoric, literature, communication and translation | 
+| **Thesis** | Study on Translation of Chinese Food Dishes | 
+| **Supervisor** | Supervisor: Professor Linmao He |
