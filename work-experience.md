@@ -9,7 +9,7 @@ subtitle: Work Experience
 | **Position** | **Deputy Head of Higher Education Division** |
 | **Date** | 10/2019-02/2021 |
 | **Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
-| **Responsibilities** | - *Professional development*: Oversaw the development and delivery of 80+ customised professional development programmes and 5+ educational consultancy projects for 134 Chinese universities. - *Community engagement*: Led a team of three to organise more than 20 educational conferences, forums and teaching competitions, fostering community engagement and collaboration. -	*Association management*: Oversaw the daily operations of the Association of Sustainable Teacher Development in Universities, fostering a vibrant educational community. |
+| **Responsibilities** | - *Professional development*: Oversaw the development and delivery of 80+ customised professional development programmes and 5+ educational consultancy projects for 134 Chinese universities. - *Community engagement*: Led teams to organise more than 20 educational conferences, forums and teaching competitions, fostering community engagement and collaboration. -	*Association management*: Oversaw the daily operations of the Association of Sustainable Teacher Development in Universities, fostering a vibrant educational community. |
 | **Position** | **Research Associate** |
 | **Date** | 01/2017-10/2019 |
 | **Organisation** | Academy of Future Education, Xi'an Jiaotong-Liverpool University, China |
