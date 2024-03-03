@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Professional
-
 subtitle: Research Experience
 ---
 
