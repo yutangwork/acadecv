@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professional activities
+title: Professional
 subtitle: Training
 ---
 
