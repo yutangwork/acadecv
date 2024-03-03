@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Professional
-
 subtitle: Course Development
 ---
 
