@@ -27,11 +27,10 @@ navbar-links:
     - Invited Talks: "invited-talks"
     - Training: "training"
   Publications:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - List: 
   Teach and Work:
-     - Teaching Experience: "teaching-experience"
-     - Work Experience: "work-experience"
+    - Teaching Experience: "teaching-experience"
+    - Work Experience: "work-experience"
   Education: "education"
 
 ################
