@@ -20,5 +20,5 @@ title: Education
 | **Date** | 09/2007-07/2011 (full-time) |
 | **Programme** | BA in English (Business English) |
 | **Courses** | Courses related to English speaking, listening, writing and reading, linguistics, rhetoric, literature, communication and translation | 
-| **Thesis** | Study on Translation of Chinese Food Dishes | 
+| **Thesis** | Study on Translation of Chinese Cuisine | 
 | **Supervisor** | Supervisor: Professor Linmao He |
