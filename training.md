@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Professional
-subtitle: Training
+subtitle: Activities
 ---
 
 | **Date** | **Course/Programme/Seminar/Competition** | **Organisation** | 
