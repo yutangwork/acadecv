@@ -5,9 +5,10 @@ subtitle: Training
 ---
 
 | **Date** | **Course/Programme** | **Organisation** | 
+| 03/2024 | 第三屆澳門城市大學廚藝爭霸賽 The 3rd City University of Macau Cooking Competition | 澳门城市大学 |  
 | 03/2024 | The 17th ASFAA Congress | Sports Bureau of Macao SAR Government |
-| 12/2023 | 澳门基本法颁布30周年暨民众青年深入认识《宪法》和《澳门基本法》座谈会 | 民众建澳联盟、民众青年会、澳门基金会 |
-| 12/2023 | 青年施政有想法系列活动-圆桌交流主题：对2023年度施政整体执行看法 | 民众青年会、澳门基金会 |
+| 12/2023 | 澳门基本法颁布30周年暨民众青年深入认识《宪法》和《澳门基本法》座谈会 Seminar on the 30th Anniversary of the Enactment of the Macao Basic Law and Young People's Understanding of the Constitution and the Basic Law of Macao  | 民众建澳联盟、民众青年会、澳门基金会 |
+| 12/2023 | 青年施政有想法系列活动-圆桌交流主题：对2023年度施政整体执行看法 Youth Governance Ideas Series - Roundtable Theme Views on the overall implementation of governance in 2023 | 民众青年会、澳门基金会 |
 | AY2022-23	| Completed PGRS Seminar Series-Quantitative Research Methods course | Xi'an Jiaotong-Liverpool University |
 | 10/2022	| Completed Qualitative Comparative Analysis (QCA) course | Coursera |
 | AY2021/22	| Completed PGRS Seminar Series-Qualitative Research Methods course | Xi'an Jiaotong-Liverpool University |
